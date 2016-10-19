@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1474331648 source:c:\users\shameer khan\desktop\khans_project2_cpp\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<stdexcept>
+

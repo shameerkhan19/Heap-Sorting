@@ -1,0 +1,148 @@
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+10 2 12 9 13 53 39 23 82 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+11 2 12 9 13 21 39 23 82 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+12 2 12 9 13 21 39 23 82 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+13 2 12 9 13 21 18 23 82 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+14 2 12 9 13 21 18 19 82 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+15 2 12 9 13 21 18 19 82 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+16 2 12 9 13 21 18 19 53 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+17 2 4 9 12 21 18 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+18 2 4 9 12 21 18 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+19 2 4 9 12 21 18 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+20 2 4 9 12 8 18 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+21 2 4 9 12 8 18 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+22 2 4 9 12 8 18 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+23 2 4 9 12 8 18 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+24 2 4 9 12 8 11 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+25 2 4 7 12 8 9 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+26 2 4 7 12 8 8 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+27 2 4 5 12 8 7 19 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+28 2 4 5 12 8 7 10 13 30 
+Heap so far : 
+Printing the heap from 0 to 10 index: 
+29 2 4 5 12 8 7 10 13 30 
+Final heap: 
+29 2 4 5 12 8 7 10 13 30 21 10 11 8 19 42 82 53 93 34 61 36 53 37 45 18 39 9 23 20 
+
+deleting (2)current heap situation :
+Printing the heap from 0 to 10 index: 
+28 4 8 5 12 10 7 10 13 30 
+deleting (4)current heap situation :
+Printing the heap from 0 to 10 index: 
+27 5 8 7 12 10 8 10 13 30 
+deleting (5)current heap situation :
+Printing the heap from 0 to 10 index: 
+26 7 8 8 12 10 9 10 13 30 
+deleting (7)current heap situation :
+Printing the heap from 0 to 10 index: 
+25 8 8 9 12 10 11 10 13 30 
+deleting (8)current heap situation :
+Printing the heap from 0 to 10 index: 
+24 8 10 9 12 20 11 10 13 30 
+deleting (8)current heap situation :
+Printing the heap from 0 to 10 index: 
+23 9 10 10 12 20 11 19 13 30 
+deleting (9)current heap situation :
+Printing the heap from 0 to 10 index: 
+22 10 10 11 12 20 18 19 13 30 
+deleting (10)current heap situation :
+Printing the heap from 0 to 10 index: 
+21 10 12 11 13 20 18 19 53 30 
+deleting (10)current heap situation :
+Printing the heap from 0 to 10 index: 
+20 11 12 18 13 20 23 19 53 30 
+deleting (11)current heap situation :
+Printing the heap from 0 to 10 index: 
+19 12 13 18 30 20 23 19 53 34 
+deleting (12)current heap situation :
+Printing the heap from 0 to 10 index: 
+18 13 20 18 30 21 23 19 53 34 
+deleting (13)current heap situation :
+Printing the heap from 0 to 10 index: 
+17 18 20 19 30 21 23 42 53 34 
+deleting (18)current heap situation :
+Printing the heap from 0 to 10 index: 
+16 19 20 23 30 21 36 42 53 34 
+deleting (19)current heap situation :
+Printing the heap from 0 to 10 index: 
+15 20 21 23 30 37 36 42 53 34 
+deleting (20)current heap situation :
+Printing the heap from 0 to 10 index: 
+14 21 30 23 34 37 36 42 53 93 
+deleting (21)current heap situation :
+Printing the heap from 0 to 10 index: 
+13 23 30 36 34 37 39 42 53 93 
+deleting (23)current heap situation :
+Printing the heap from 0 to 10 index: 
+12 30 34 36 53 37 39 42 53 93 
+deleting (30)current heap situation :
+Printing the heap from 0 to 10 index: 
+11 34 37 36 53 45 39 42 53 93 
+deleting (34)current heap situation :
+Printing the heap from 0 to 10 index: 
+10 36 37 39 53 45 82 42 53 93 
+deleting (36)current heap situation :
+Printing the heap from 0 to 10 index: 
+9 37 45 39 53 61 82 42 53 93 
+deleting (37)current heap situation :
+Printing the heap from 0 to 10 index: 
+8 39 45 42 53 61 82 93 53 
+deleting (39)current heap situation :
+Printing the heap from 0 to 10 index: 
+7 42 45 53 53 61 82 93 
+deleting (42)current heap situation :
+Printing the heap from 0 to 10 index: 
+6 45 53 53 93 61 82 
+deleting (45)current heap situation :
+Printing the heap from 0 to 10 index: 
+5 53 53 82 93 61 
+deleting (53)current heap situation :
+Printing the heap from 0 to 10 index: 
+4 53 61 82 93 
+deleting (53)current heap situation :
+Printing the heap from 0 to 10 index: 
+3 61 93 82 
+deleting (61)current heap situation :
+Printing the heap from 0 to 10 index: 
+2 82 93 
+deleting (82)current heap situation :
+Printing the heap from 0 to 10 index: 
+1 93 
+deleting (93) Completely deleted! No more items left!
